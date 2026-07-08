@@ -1,3 +1,16 @@
+# ==================== 项目自定义规则 ====================
+
+# Windows 系统文件
+Desktop.ini
+
+# Kimi Code agent 配置
+.agents/
+
+# macOS 系统文件
+.DS_Store
+
+# ==================== Python 通用模板规则 ====================
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
